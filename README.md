@@ -1,33 +1,36 @@
 <h1 align="center">Hi 👋, I'm Parham</h1>
-<h3 align="center">Full-Stack Developer from Iran 🇮🇷</h3>
+<h3 align="center">Full-Stack Developer | React • Node.js • MongoDB</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer
-- 🌱 Currently learning **JWT Authentication & Backend Security**
-- 🚀 Building modern web applications with React & Node.js
-- 🎯 Goal: Become a professional Full-Stack Developer
+I'm a passionate Full-Stack Developer who enjoys building modern, scalable web applications.
+
+- 💻 Full-Stack JavaScript Developer
+- ⚛️ React Developer
+- 🚀 Building REST APIs with Node.js & Express
+- 🌱 Currently learning JWT Authentication & Backend Security
+- 🎯 Goal: Build production-ready applications and grow as a professional software developer
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Currently Learning
 
-![Parham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parham-Codes&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parham-Codes&layout=compact)
+- JWT Authentication
+- Authorization
+- Backend Security
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-📧 Email: parhamtaghikhani.31@gmail.com
+- Email: parhamtaghikhani.31@gmail.com
